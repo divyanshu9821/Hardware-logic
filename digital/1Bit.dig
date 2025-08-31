@@ -3,12 +3,12 @@
   <version>2</version>
   <attributes>
     <entry>
-      <string>Label</string>
-      <string>1Bit</string>
-    </entry>
-    <entry>
       <string>shapeType</string>
       <shapeType>LAYOUT</shapeType>
+    </entry>
+    <entry>
+      <string>Label</string>
+      <string>1Bit</string>
     </entry>
     <entry>
       <string>romContent</string>
