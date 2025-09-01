@@ -3,6 +3,10 @@
   <version>2</version>
   <attributes>
     <entry>
+      <string>shapeType</string>
+      <shapeType>MINIMIZED</shapeType>
+    </entry>
+    <entry>
       <string>romContent</string>
       <romList>
         <roms/>
@@ -10,14 +14,34 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>5</int>
+      <int>16</int>
     </entry>
   </attributes>
   <visualElements>
     <visualElement>
-      <elementName>Addition.dig</elementName>
+      <elementName>Additition_16bit.dig</elementName>
       <elementAttributes/>
-      <pos x="420" y="340"/>
+      <pos x="300" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Value</string>
+          <long>0</long>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Bits</string>
+          <int>16</int>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="240"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -35,7 +59,7 @@
           <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="380" y="360"/>
+      <pos x="260" y="180"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -53,45 +77,25 @@
           <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="560" y="380"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Bits</string>
-          <int>16</int>
-        </entry>
-      </elementAttributes>
-      <pos x="400" y="400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-      </elementAttributes>
-      <pos x="400" y="440"/>
+      <pos x="1380" y="580"/>
     </visualElement>
   </visualElements>
   <wires>
     <wire>
-      <p1 x="400" y="400"/>
-      <p2 x="420" y="400"/>
+      <p1 x="280" y="240"/>
+      <p2 x="300" y="240"/>
     </wire>
     <wire>
-      <p1 x="380" y="360"/>
-      <p2 x="420" y="360"/>
+      <p1 x="260" y="180"/>
+      <p2 x="300" y="180"/>
     </wire>
     <wire>
-      <p1 x="400" y="440"/>
-      <p2 x="420" y="440"/>
+      <p1 x="1340" y="580"/>
+      <p2 x="1380" y="580"/>
     </wire>
     <wire>
-      <p1 x="540" y="380"/>
-      <p2 x="560" y="380"/>
+      <p1 x="280" y="280"/>
+      <p2 x="300" y="280"/>
     </wire>
   </wires>
   <measurementOrdering/>
