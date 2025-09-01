@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Tue Sep 02 00:04:47 IST 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="183.9mm"
+   height="85.35mm"
+   viewBox="221 132 1226 569">
+<g stroke-linecap="square">
+<path d="M 280,240 L 300,240" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 260,180 L 300,180" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 1340,580 L 1380,580" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 280,280 L 300,280" stroke="#000000" stroke-width="2.8" fill="none"/>
+<path d="M 300,280 L 390,270 L 405,270 L 412,270 L 415,270 L 416,270" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 320,225 L 320,230 L 320,490 L 390,490 L 405,480 L 407,480 L 407,475 L 415,475 L 416,475" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 550,225 L 550,230 L 550,490 L 650,490 L 665,480 L 667,480 L 667,475 L 675,475 L 676,475" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 810,225 L 810,230 L 810,490 L 910,490 L 925,480 L 927,480 L 927,475 L 935,475 L 936,475" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1070,225 L 1070,230 L 1070,490 L 1170,490 L 1185,480 L 1187,480 L 1187,475 L 1195,475 L 1196,475" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 470,300 L 480,300 L 490,300 L 490,350 L 380,350 L 380,370 L 390,370 L 405,370 L 412,370 L 415,370 L 416,370" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 730,300 L 740,300 L 750,300 L 750,350 L 640,350 L 640,370 L 650,370 L 665,370 L 672,370 L 675,370 L 676,370" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 990,300 L 1000,300 L 1010,300 L 1010,350 L 900,350 L 900,370 L 910,370 L 925,370 L 932,370 L 935,370 L 936,370" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1250,300 L 1260,300 L 1270,300 L 1270,350 L 1160,350 L 1160,370 L 1170,370 L 1185,370 L 1192,370 L 1195,370 L 1196,370" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 310,225 L 310,230 L 310,590 L 390,590 L 405,580 L 407,580 L 407,575 L 415,575 L 416,575" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 540,225 L 540,230 L 540,590 L 650,590 L 665,580 L 667,580 L 667,575 L 675,575 L 676,575" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 800,225 L 800,230 L 800,590 L 910,590 L 925,580 L 927,580 L 927,575 L 935,575 L 936,575" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1060,225 L 1060,230 L 1060,590 L 1170,590 L 1185,580 L 1187,580 L 1187,575 L 1195,575 L 1196,575" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 300,240 L 1190,240 L 1190,220 L 1170,220 L 1165,220 L 1160,220 L 1130,220 L 1130,225 L 1130,230 L 1130,310 L 1170,310 L 1185,315 L 1187,315 L 1187,310 L 1195,310 L 1196,310" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 470,400 L 480,400 L 490,400 L 490,450 L 380,450 L 380,470 L 390,470 L 405,470 L 412,470 L 415,470 L 416,470" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 730,400 L 740,400 L 750,400 L 750,450 L 640,450 L 640,470 L 650,470 L 665,470 L 672,470 L 675,470 L 676,470" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 990,400 L 1000,400 L 1010,400 L 1010,450 L 900,450 L 900,470 L 910,470 L 925,470 L 932,470 L 935,470 L 936,470" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1250,400 L 1260,400 L 1270,400 L 1270,450 L 1160,450 L 1160,470 L 1170,470 L 1185,470 L 1192,470 L 1195,470 L 1196,470" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 470,500 L 480,500 L 490,500 L 490,550 L 380,550 L 380,570 L 390,570 L 405,570 L 412,570 L 415,570 L 416,570" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 730,500 L 740,500 L 750,500 L 750,550 L 640,550 L 640,570 L 650,570 L 665,570 L 672,570 L 675,570 L 676,570" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 990,500 L 1000,500 L 1010,500 L 1010,550 L 900,550 L 900,570 L 910,570 L 925,570 L 932,570 L 935,570 L 936,570" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1250,500 L 1260,500 L 1270,500 L 1270,550 L 1160,550 L 1160,570 L 1170,570 L 1185,570 L 1192,570 L 1195,570 L 1196,570" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 470,600 L 480,600 L 530,600 L 530,270 L 650,270 L 665,270 L 672,270 L 675,270 L 676,270" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 730,600 L 740,600 L 790,600 L 790,270 L 910,270 L 925,270 L 932,270 L 935,270 L 936,270" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 990,600 L 1000,600 L 1050,600 L 1050,270 L 1170,270 L 1185,270 L 1192,270 L 1195,270 L 1196,270" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1250,600 L 1260,600 L 1340,600" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 370,225 L 370,230 L 370,410 L 390,410 L 405,415 L 407,415 L 407,410 L 415,410 L 416,410" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 600,225 L 600,230 L 600,410 L 650,410 L 665,415 L 667,415 L 667,410 L 675,410 L 676,410" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 860,225 L 860,230 L 860,410 L 910,410 L 925,415 L 927,415 L 927,410 L 935,410 L 936,410" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1120,225 L 1120,230 L 1120,410 L 1170,410 L 1185,415 L 1187,415 L 1187,410 L 1195,410 L 1196,410" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 360,225 L 360,230 L 360,510 L 390,510 L 405,515 L 407,515 L 407,510 L 415,510 L 416,510" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 590,225 L 590,230 L 590,510 L 650,510 L 665,515 L 667,515 L 667,510 L 675,510 L 676,510" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 850,225 L 850,230 L 850,510 L 910,510 L 925,515 L 927,515 L 927,510 L 935,510 L 936,510" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1110,225 L 1110,230 L 1110,510 L 1170,510 L 1185,515 L 1187,515 L 1187,510 L 1195,510 L 1196,510" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 350,225 L 350,230 L 350,610 L 390,610 L 405,615 L 407,615 L 407,610 L 415,610 L 416,610" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 580,225 L 580,230 L 580,610 L 650,610 L 665,615 L 667,615 L 667,610 L 675,610 L 676,610" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 840,225 L 840,230 L 840,610 L 910,610 L 925,615 L 927,615 L 927,610 L 935,610 L 936,610" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1100,225 L 1100,230 L 1100,610 L 1170,610 L 1185,615 L 1187,615 L 1187,610 L 1195,610 L 1196,610" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 330,225 L 330,230 L 330,390 L 390,390 L 405,380 L 407,380 L 407,375 L 415,375 L 416,375" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 560,225 L 560,230 L 560,390 L 650,390 L 665,380 L 667,380 L 667,375 L 675,375 L 676,375" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 820,225 L 820,230 L 820,390 L 910,390 L 925,380 L 927,380 L 927,375 L 935,375 L 936,375" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1080,225 L 1080,230 L 1080,390 L 1170,390 L 1185,380 L 1187,380 L 1187,375 L 1195,375 L 1196,375" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1115,140 L 1110,140 L 340,140 L 340,220 L 340,225 L 340,230 L 340,290 L 390,290 L 405,280 L 407,280 L 407,275 L 415,275 L 416,275" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1115,150 L 1110,150 L 570,150 L 570,220 L 570,225 L 570,230 L 570,290 L 650,290 L 665,280 L 667,280 L 667,275 L 675,275 L 676,275" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1115,160 L 1110,160 L 830,160 L 830,220 L 830,225 L 830,230 L 830,290 L 910,290 L 925,280 L 927,280 L 927,275 L 935,275 L 936,275" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1165,210 L 1160,210 L 870,210 L 870,220 L 870,225 L 870,230 L 870,310 L 910,310 L 925,315 L 927,315 L 927,310 L 935,310 L 936,310" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1165,200 L 1160,200 L 610,200 L 610,220 L 610,225 L 610,230 L 610,310 L 650,310 L 665,315 L 667,315 L 667,310 L 675,310 L 676,310" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 300,180 L 1140,180 L 1140,170 L 1120,170 L 1115,170 L 1110,170 L 1090,170 L 1090,220 L 1090,225 L 1090,230 L 1090,290 L 1170,290 L 1185,280 L 1187,280 L 1187,275 L 1195,275 L 1196,275" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,320 L 1210,320 L 1225,320 L 1225,305 L 1230,305 L 1231,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,285 L 1210,285 L 1225,285 L 1225,295 L 1230,295 L 1231,295" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,307 L 1210,310 L 1220,310 L 1220,280 L 1260,280 L 1300,280 L 1300,630 L 1300,635 L 1300,640 L 1320,640 L 1325,640 L 1330,640 L 1330,580 L 1340,580" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,272 L 1210,275 L 1215,275 L 1215,300 L 1180,300 L 1180,305 L 1185,305 L 1192,305 L 1195,305 L 1196,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,270 L 1192,282 L 1195,282" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,280 L 1187,287 L 1195,287" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,305 L 1192,317 L 1195,317" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,315 L 1187,322 L 1195,322" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,320 L 950,320 L 965,320 L 965,305 L 970,305 L 971,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,285 L 950,285 L 965,285 L 965,295 L 970,295 L 971,295" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,307 L 950,310 L 960,310 L 960,280 L 1000,280 L 1040,280 L 1040,630 L 1040,635 L 1040,640 L 1040,650 L 1320,650 L 1325,650" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,272 L 950,275 L 955,275 L 955,300 L 920,300 L 920,305 L 925,305 L 932,305 L 935,305 L 936,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,270 L 932,282 L 935,282" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,280 L 927,287 L 935,287" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,305 L 932,317 L 935,317" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,315 L 927,322 L 935,322" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,320 L 690,320 L 705,320 L 705,305 L 710,305 L 711,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,285 L 690,285 L 705,285 L 705,295 L 710,295 L 711,295" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,307 L 690,310 L 700,310 L 700,280 L 740,280 L 780,280 L 780,630 L 780,635 L 780,640 L 780,660 L 1320,660 L 1325,660" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,272 L 690,275 L 695,275 L 695,300 L 660,300 L 660,305 L 665,305 L 672,305 L 675,305 L 676,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,270 L 672,282 L 675,282" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,280 L 667,287 L 675,287" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,305 L 672,317 L 675,317" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,315 L 667,322 L 675,322" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,320 L 430,320 L 445,320 L 445,305 L 450,305 L 451,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,285 L 430,285 L 445,285 L 445,295 L 450,295 L 451,295" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,307 L 430,310 L 440,310 L 440,280 L 480,280 L 520,280 L 520,630 L 520,635 L 520,640 L 520,670 L 1320,670 L 1325,670" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,272 L 430,275 L 435,275 L 435,300 L 400,300 L 400,305 L 405,305 L 412,305 L 415,305 L 416,305" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,270 L 412,282 L 415,282" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,280 L 407,287 L 415,287" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,305 L 412,317 L 415,317" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,315 L 407,322 L 415,322" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1165,190 L 1160,190 L 380,190 L 380,220 L 380,225 L 380,230 L 380,310 L 390,310 L 405,315 L 407,315 L 407,310 L 415,310 L 416,310" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,420 L 430,420 L 445,420 L 445,405 L 450,405 L 451,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,385 L 430,385 L 445,385 L 445,395 L 450,395 L 451,395" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,407 L 430,410 L 440,410 L 440,380 L 480,380 L 510,380 L 510,630 L 510,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,372 L 430,375 L 435,375 L 435,400 L 400,400 L 400,405 L 405,405 L 412,405 L 415,405 L 416,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,370 L 412,382 L 415,382" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,380 L 407,387 L 415,387" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,405 L 412,417 L 415,417" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,415 L 407,422 L 415,422" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,420 L 690,420 L 705,420 L 705,405 L 710,405 L 711,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,385 L 690,385 L 705,385 L 705,395 L 710,395 L 711,395" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,407 L 690,410 L 700,410 L 700,380 L 740,380 L 770,380 L 770,630 L 770,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,372 L 690,375 L 695,375 L 695,400 L 660,400 L 660,405 L 665,405 L 672,405 L 675,405 L 676,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,370 L 672,382 L 675,382" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,380 L 667,387 L 675,387" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,405 L 672,417 L 675,417" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,415 L 667,422 L 675,422" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,420 L 950,420 L 965,420 L 965,405 L 970,405 L 971,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,385 L 950,385 L 965,385 L 965,395 L 970,395 L 971,395" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,407 L 950,410 L 960,410 L 960,380 L 1000,380 L 1030,380 L 1030,630 L 1030,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,372 L 950,375 L 955,375 L 955,400 L 920,400 L 920,405 L 925,405 L 932,405 L 935,405 L 936,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,370 L 932,382 L 935,382" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,380 L 927,387 L 935,387" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,405 L 932,417 L 935,417" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,415 L 927,422 L 935,422" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,420 L 1210,420 L 1225,420 L 1225,405 L 1230,405 L 1231,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,385 L 1210,385 L 1225,385 L 1225,395 L 1230,395 L 1231,395" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,407 L 1210,410 L 1220,410 L 1220,380 L 1260,380 L 1290,380 L 1290,630 L 1290,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,372 L 1210,375 L 1215,375 L 1215,400 L 1180,400 L 1180,405 L 1185,405 L 1192,405 L 1195,405 L 1196,405" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,370 L 1192,382 L 1195,382" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,380 L 1187,387 L 1195,387" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,405 L 1192,417 L 1195,417" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,415 L 1187,422 L 1195,422" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,520 L 430,520 L 445,520 L 445,505 L 450,505 L 451,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,485 L 430,485 L 445,485 L 445,495 L 450,495 L 451,495" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,507 L 430,510 L 440,510 L 440,480 L 480,480 L 500,480 L 500,630 L 500,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,472 L 430,475 L 435,475 L 435,500 L 400,500 L 400,505 L 405,505 L 412,505 L 415,505 L 416,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,470 L 412,482 L 415,482" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,480 L 407,487 L 415,487" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,505 L 412,517 L 415,517" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,515 L 407,522 L 415,522" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,520 L 690,520 L 705,520 L 705,505 L 710,505 L 711,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,485 L 690,485 L 705,485 L 705,495 L 710,495 L 711,495" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,507 L 690,510 L 700,510 L 700,480 L 740,480 L 760,480 L 760,630 L 760,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,472 L 690,475 L 695,475 L 695,500 L 660,500 L 660,505 L 665,505 L 672,505 L 675,505 L 676,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,470 L 672,482 L 675,482" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,480 L 667,487 L 675,487" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,505 L 672,517 L 675,517" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,515 L 667,522 L 675,522" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,520 L 950,520 L 965,520 L 965,505 L 970,505 L 971,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,485 L 950,485 L 965,485 L 965,495 L 970,495 L 971,495" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,507 L 950,510 L 960,510 L 960,480 L 1000,480 L 1020,480 L 1020,630 L 1020,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,472 L 950,475 L 955,475 L 955,500 L 920,500 L 920,505 L 925,505 L 932,505 L 935,505 L 936,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,470 L 932,482 L 935,482" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,480 L 927,487 L 935,487" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,505 L 932,517 L 935,517" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,515 L 927,522 L 935,522" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,520 L 1210,520 L 1225,520 L 1225,505 L 1230,505 L 1231,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,485 L 1210,485 L 1225,485 L 1225,495 L 1230,495 L 1231,495" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,507 L 1210,510 L 1220,510 L 1220,480 L 1260,480 L 1280,480 L 1280,630 L 1280,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,472 L 1210,475 L 1215,475 L 1215,500 L 1180,500 L 1180,505 L 1185,505 L 1192,505 L 1195,505 L 1196,505" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,470 L 1192,482 L 1195,482" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,480 L 1187,487 L 1195,487" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,505 L 1192,517 L 1195,517" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,515 L 1187,522 L 1195,522" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,620 L 430,620 L 445,620 L 445,605 L 450,605 L 451,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,585 L 430,585 L 445,585 L 445,595 L 450,595 L 451,595" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,607 L 430,610 L 440,610 L 440,580 L 480,580 L 490,580 L 490,630 L 490,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 425,572 L 430,575 L 435,575 L 435,600 L 400,600 L 400,605 L 405,605 L 412,605 L 415,605 L 416,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,570 L 412,582 L 415,582" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,580 L 407,587 L 415,587" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 412,605 L 412,617 L 415,617" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 407,615 L 407,622 L 415,622" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,620 L 690,620 L 705,620 L 705,605 L 710,605 L 711,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,585 L 690,585 L 705,585 L 705,595 L 710,595 L 711,595" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,607 L 690,610 L 700,610 L 700,580 L 740,580 L 750,580 L 750,630 L 750,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 685,572 L 690,575 L 695,575 L 695,600 L 660,600 L 660,605 L 665,605 L 672,605 L 675,605 L 676,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,570 L 672,582 L 675,582" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,580 L 667,587 L 675,587" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 672,605 L 672,617 L 675,617" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 667,615 L 667,622 L 675,622" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,620 L 950,620 L 965,620 L 965,605 L 970,605 L 971,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,585 L 950,585 L 965,585 L 965,595 L 970,595 L 971,595" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,607 L 950,610 L 960,610 L 960,580 L 1000,580 L 1010,580 L 1010,630 L 1010,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 945,572 L 950,575 L 955,575 L 955,600 L 920,600 L 920,605 L 925,605 L 932,605 L 935,605 L 936,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,570 L 932,582 L 935,582" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,580 L 927,587 L 935,587" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 932,605 L 932,617 L 935,617" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 927,615 L 927,622 L 935,622" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,620 L 1210,620 L 1225,620 L 1225,605 L 1230,605 L 1231,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,585 L 1210,585 L 1225,585 L 1225,595 L 1230,595 L 1231,595" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,607 L 1210,610 L 1220,610 L 1220,580 L 1260,580 L 1270,580 L 1270,630 L 1270,635" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1205,572 L 1210,575 L 1215,575 L 1215,600 L 1180,600 L 1180,605 L 1185,605 L 1192,605 L 1195,605 L 1196,605" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,570 L 1192,582 L 1195,582" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,580 L 1187,587 L 1195,587" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1192,605 L 1192,617 L 1195,617" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1187,615 L 1187,622 L 1195,622" stroke="#000000" stroke-width="1.4" fill="none"/>
+<g>
+</g>
+<g>
+<text text-anchor="end" x="341.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="341.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="331.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="321.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="311.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 341,224 L 341,226 L 309,226 L 309,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="340.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="340.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="330.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="320.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="310.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="381.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="381.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="371.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="361.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="351.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 381,224 L 381,226 L 349,226 L 349,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="380.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="380.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="370.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="360.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="350.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="571.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="571.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="561.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="551.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="541.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 571,224 L 571,226 L 539,226 L 539,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="570.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="570.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="560.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="550.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="540.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="521.0" y="629.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="end" x="511.0" y="629.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="end" x="501.0" y="629.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="end" x="491.0" y="629.0" fill="#000000" style="font-size:6px">3</text>
+<text text-anchor="start" x="521.0" y="641.0" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 521,634 L 521,636 L 489,636 L 489,634 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="520.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="510.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="500.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="490.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="520.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="781.0" y="629.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="end" x="771.0" y="629.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="end" x="761.0" y="629.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="end" x="751.0" y="629.0" fill="#000000" style="font-size:6px">3</text>
+<text text-anchor="start" x="781.0" y="641.0" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 781,634 L 781,636 L 749,636 L 749,634 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="780.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="770.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="760.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="750.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="780.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="831.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="831.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="821.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="811.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="801.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 831,224 L 831,226 L 799,226 L 799,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="830.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="830.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="820.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="810.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="800.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="871.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="871.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="861.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="851.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="841.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 871,224 L 871,226 L 839,226 L 839,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="870.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="870.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="860.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="850.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="840.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="1041.0" y="629.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="end" x="1031.0" y="629.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="end" x="1021.0" y="629.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="end" x="1011.0" y="629.0" fill="#000000" style="font-size:6px">3</text>
+<text text-anchor="start" x="1041.0" y="641.0" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 1041,634 L 1041,636 L 1009,636 L 1009,634 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1040.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1030.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1020.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1010.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1040.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="1091.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="1091.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="1081.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="1071.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="1061.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 1091,224 L 1091,226 L 1059,226 L 1059,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1090.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1090.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1080.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1070.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1060.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="1131.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="1131.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="1121.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="1111.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="1101.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 1131,224 L 1131,226 L 1099,226 L 1099,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1130.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1130.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1120.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1110.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1100.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="1301.0" y="629.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="end" x="1291.0" y="629.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="end" x="1281.0" y="629.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="end" x="1271.0" y="629.0" fill="#000000" style="font-size:6px">3</text>
+<text text-anchor="start" x="1301.0" y="641.0" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 1301,634 L 1301,636 L 1269,636 L 1269,634 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1300.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1290.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1280.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1270.0" cy="630.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1300.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="1319.0" y="638.0" fill="#000000" style="font-size:6px">12-15</text>
+<text text-anchor="end" x="1319.0" y="648.0" fill="#000000" style="font-size:6px">8-11</text>
+<text text-anchor="end" x="1319.0" y="658.0" fill="#000000" style="font-size:6px">4-7</text>
+<text text-anchor="end" x="1319.0" y="668.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="1331.0" y="638.0" fill="#000000" style="font-size:6px">0-15</text>
+<path d="M 1324,639 L 1326,639 L 1326,671 L 1324,671 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1320.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1320.0" cy="650.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1320.0" cy="660.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1320.0" cy="670.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1330.0" cy="640.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="start" x="1171.0" y="225.5" fill="#000000" style="font-size:6px">0-15</text>
+<text text-anchor="end" x="1159.0" y="225.5" fill="#000000" style="font-size:6px">12-15</text>
+<text text-anchor="end" x="1159.0" y="215.5" fill="#000000" style="font-size:6px">8-11</text>
+<text text-anchor="end" x="1159.0" y="205.5" fill="#000000" style="font-size:6px">4-7</text>
+<text text-anchor="end" x="1159.0" y="195.5" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 1166,221 L 1164,221 L 1164,189 L 1166,189 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1170.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1160.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1160.0" cy="210.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1160.0" cy="200.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1160.0" cy="190.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="end" x="611.0" y="219.0" fill="#000000" style="font-size:6px">0-3</text>
+<text text-anchor="start" x="611.0" y="231.0" fill="#000000" style="font-size:6px">0</text>
+<text text-anchor="start" x="601.0" y="231.0" fill="#000000" style="font-size:6px">1</text>
+<text text-anchor="start" x="591.0" y="231.0" fill="#000000" style="font-size:6px">2</text>
+<text text-anchor="start" x="581.0" y="231.0" fill="#000000" style="font-size:6px">3</text>
+<path d="M 611,224 L 611,226 L 579,226 L 579,224 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="610.0" cy="220.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="610.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="600.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="590.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="580.0" cy="230.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<text text-anchor="start" x="1121.0" y="176.5" fill="#000000" style="font-size:6px">0-15</text>
+<text text-anchor="end" x="1109.0" y="176.5" fill="#000000" style="font-size:6px">12-15</text>
+<text text-anchor="end" x="1109.0" y="166.5" fill="#000000" style="font-size:6px">8-11</text>
+<text text-anchor="end" x="1109.0" y="156.5" fill="#000000" style="font-size:6px">4-7</text>
+<text text-anchor="end" x="1109.0" y="146.5" fill="#000000" style="font-size:6px">0-3</text>
+<path d="M 1116,171 L 1114,171 L 1114,139 L 1116,139 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1120.0" cy="170.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1110.0" cy="170.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1110.0" cy="160.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1110.0" cy="150.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1110.0" cy="140.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1237,307 L 1230,307 C 1232,303 1232,296 1230,292 L 1235,292 C 1242,292 1247,295 1250,300 C 1247,305 1242,307 1237,307 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1229.0" cy="294.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1229.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1249.0" cy="299.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,276 L 1196,276 C 1197,274 1197,270 1196,269 L 1198,269 C 1201,269 1203,270 1205,272 C 1203,275 1201,276 1198,276 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,276 C 1196,275 1196,270 1195,269" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="270.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="272.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,288 L 1195,288 L 1195,281 L 1201,281 C 1202,281 1205,282 1204,285 C 1204,287 1202,288 1201,288 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="282.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="287.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,267 L 1185,290 L 1210,290 L 1210,267 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="294.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="269.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="279.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,311 L 1196,311 C 1197,309 1197,305 1196,303 L 1198,303 C 1201,303 1203,305 1205,307 C 1203,310 1201,311 1198,311 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,311 C 1196,310 1196,305 1195,303" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="307.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,323 L 1195,323 L 1195,316 L 1201,316 C 1202,316 1205,317 1204,320 C 1204,322 1202,323 1201,323 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="317.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="322.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,302 L 1185,325 L 1210,325 L 1210,302 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="329.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="314.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1170,265 L 1170,333 L 1260,333 L 1260,265 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1215.0" y="341.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="1170.0" cy="310.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="270.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="290.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="280.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="300.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 977,307 L 970,307 C 972,303 972,296 970,292 L 975,292 C 982,292 987,295 990,300 C 987,305 982,307 977,307 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="969.0" cy="294.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="969.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="989.0" cy="299.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,276 L 936,276 C 937,274 937,270 936,269 L 938,269 C 941,269 943,270 945,272 C 943,275 941,276 938,276 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,276 C 936,275 936,270 935,269" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="270.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="272.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,288 L 935,288 L 935,281 L 941,281 C 942,281 945,282 944,285 C 944,287 942,288 941,288 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="282.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="287.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,267 L 925,290 L 950,290 L 950,267 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="294.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="269.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="279.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,311 L 936,311 C 937,309 937,305 936,303 L 938,303 C 941,303 943,305 945,307 C 943,310 941,311 938,311 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,311 C 936,310 936,305 935,303" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="307.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,323 L 935,323 L 935,316 L 941,316 C 942,316 945,317 944,320 C 944,322 942,323 941,323 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="317.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="322.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,302 L 925,325 L 950,325 L 950,302 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="329.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="314.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 910,265 L 910,333 L 1000,333 L 1000,265 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="955.0" y="341.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="910.0" cy="310.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="270.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="290.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="280.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="300.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 717,307 L 710,307 C 712,303 712,296 710,292 L 715,292 C 722,292 727,295 730,300 C 727,305 722,307 717,307 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="709.0" cy="294.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="709.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="729.0" cy="299.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,276 L 676,276 C 677,274 677,270 676,269 L 678,269 C 681,269 683,270 685,272 C 683,275 681,276 678,276 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,276 C 676,275 676,270 675,269" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="270.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="272.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,288 L 675,288 L 675,281 L 681,281 C 682,281 685,282 684,285 C 684,287 682,288 681,288 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="282.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="287.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,267 L 665,290 L 690,290 L 690,267 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="294.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="269.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="279.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,311 L 676,311 C 677,309 677,305 676,303 L 678,303 C 681,303 683,305 685,307 C 683,310 681,311 678,311 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,311 C 676,310 676,305 675,303" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="307.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,323 L 675,323 L 675,316 L 681,316 C 682,316 685,317 684,320 C 684,322 682,323 681,323 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="317.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="322.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,302 L 665,325 L 690,325 L 690,302 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="329.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="314.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 650,265 L 650,333 L 740,333 L 740,265 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="695.0" y="341.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="650.0" cy="310.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="270.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="290.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="280.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="300.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 457,307 L 450,307 C 452,303 452,296 450,292 L 455,292 C 462,292 467,295 470,300 C 467,305 462,307 457,307 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="449.0" cy="294.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="449.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="469.0" cy="299.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,276 L 416,276 C 417,274 417,270 416,269 L 418,269 C 421,269 423,270 425,272 C 423,275 421,276 418,276 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,276 C 416,275 416,270 415,269" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="270.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="272.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,288 L 415,288 L 415,281 L 421,281 C 422,281 425,282 424,285 C 424,287 422,288 421,288 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="282.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="287.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,267 L 405,290 L 430,290 L 430,267 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="294.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="269.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="279.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="274.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="284.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,311 L 416,311 C 417,309 417,305 416,303 L 418,303 C 421,303 423,305 425,307 C 423,310 421,311 418,311 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,311 C 416,310 416,305 415,303" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="307.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,323 L 415,323 L 415,316 L 421,316 C 422,316 425,317 424,320 C 424,322 422,323 421,323 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="317.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="322.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,302 L 405,325 L 430,325 L 430,302 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="329.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="304.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="314.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="309.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="319.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 390,265 L 390,333 L 480,333 L 480,265 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="435.0" y="341.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="390.0" cy="310.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="270.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="290.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="280.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="300.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 457,407 L 450,407 C 452,403 452,396 450,392 L 455,392 C 462,392 467,395 470,400 C 467,405 462,407 457,407 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="449.0" cy="394.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="449.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="469.0" cy="399.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,376 L 416,376 C 417,374 417,370 416,369 L 418,369 C 421,369 423,370 425,372 C 423,375 421,376 418,376 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,376 C 416,375 416,370 415,369" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="370.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="372.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,388 L 415,388 L 415,381 L 421,381 C 422,381 425,382 424,385 C 424,387 422,388 421,388 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="382.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="387.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,367 L 405,390 L 430,390 L 430,367 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="394.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="369.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="379.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,411 L 416,411 C 417,409 417,405 416,403 L 418,403 C 421,403 423,405 425,407 C 423,410 421,411 418,411 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,411 C 416,410 416,405 415,403" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="407.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,423 L 415,423 L 415,416 L 421,416 C 422,416 425,417 424,420 C 424,422 422,423 421,423 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="417.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="422.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,402 L 405,425 L 430,425 L 430,402 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="429.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="414.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 390,365 L 390,433 L 480,433 L 480,365 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="435.0" y="441.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="390.0" cy="410.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="370.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="390.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="380.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="400.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 717,407 L 710,407 C 712,403 712,396 710,392 L 715,392 C 722,392 727,395 730,400 C 727,405 722,407 717,407 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="709.0" cy="394.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="709.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="729.0" cy="399.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,376 L 676,376 C 677,374 677,370 676,369 L 678,369 C 681,369 683,370 685,372 C 683,375 681,376 678,376 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,376 C 676,375 676,370 675,369" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="370.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="372.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,388 L 675,388 L 675,381 L 681,381 C 682,381 685,382 684,385 C 684,387 682,388 681,388 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="382.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="387.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,367 L 665,390 L 690,390 L 690,367 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="394.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="369.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="379.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,411 L 676,411 C 677,409 677,405 676,403 L 678,403 C 681,403 683,405 685,407 C 683,410 681,411 678,411 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,411 C 676,410 676,405 675,403" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="407.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,423 L 675,423 L 675,416 L 681,416 C 682,416 685,417 684,420 C 684,422 682,423 681,423 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="417.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="422.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,402 L 665,425 L 690,425 L 690,402 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="429.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="414.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 650,365 L 650,433 L 740,433 L 740,365 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="695.0" y="441.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="650.0" cy="410.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="370.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="390.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="380.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="400.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 977,407 L 970,407 C 972,403 972,396 970,392 L 975,392 C 982,392 987,395 990,400 C 987,405 982,407 977,407 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="969.0" cy="394.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="969.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="989.0" cy="399.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,376 L 936,376 C 937,374 937,370 936,369 L 938,369 C 941,369 943,370 945,372 C 943,375 941,376 938,376 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,376 C 936,375 936,370 935,369" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="370.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="372.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,388 L 935,388 L 935,381 L 941,381 C 942,381 945,382 944,385 C 944,387 942,388 941,388 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="382.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="387.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,367 L 925,390 L 950,390 L 950,367 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="394.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="369.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="379.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,411 L 936,411 C 937,409 937,405 936,403 L 938,403 C 941,403 943,405 945,407 C 943,410 941,411 938,411 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,411 C 936,410 936,405 935,403" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="407.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,423 L 935,423 L 935,416 L 941,416 C 942,416 945,417 944,420 C 944,422 942,423 941,423 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="417.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="422.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,402 L 925,425 L 950,425 L 950,402 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="429.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="414.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 910,365 L 910,433 L 1000,433 L 1000,365 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="955.0" y="441.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="910.0" cy="410.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="370.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="390.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="380.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="400.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1237,407 L 1230,407 C 1232,403 1232,396 1230,392 L 1235,392 C 1242,392 1247,395 1250,400 C 1247,405 1242,407 1237,407 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1229.0" cy="394.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1229.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1249.0" cy="399.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,376 L 1196,376 C 1197,374 1197,370 1196,369 L 1198,369 C 1201,369 1203,370 1205,372 C 1203,375 1201,376 1198,376 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,376 C 1196,375 1196,370 1195,369" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="370.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="372.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,388 L 1195,388 L 1195,381 L 1201,381 C 1202,381 1205,382 1204,385 C 1204,387 1202,388 1201,388 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="382.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="387.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,367 L 1185,390 L 1210,390 L 1210,367 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="394.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="369.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="379.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="374.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="384.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,411 L 1196,411 C 1197,409 1197,405 1196,403 L 1198,403 C 1201,403 1203,405 1205,407 C 1203,410 1201,411 1198,411 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,411 C 1196,410 1196,405 1195,403" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="407.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,423 L 1195,423 L 1195,416 L 1201,416 C 1202,416 1205,417 1204,420 C 1204,422 1202,423 1201,423 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="417.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="422.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,402 L 1185,425 L 1210,425 L 1210,402 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="429.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="404.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="414.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="409.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="419.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1170,365 L 1170,433 L 1260,433 L 1260,365 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1215.0" y="441.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="1170.0" cy="410.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="370.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="390.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="380.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="400.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 457,507 L 450,507 C 452,503 452,496 450,492 L 455,492 C 462,492 467,495 470,500 C 467,505 462,507 457,507 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="449.0" cy="494.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="449.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="469.0" cy="499.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,476 L 416,476 C 417,474 417,470 416,469 L 418,469 C 421,469 423,470 425,472 C 423,475 421,476 418,476 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,476 C 416,475 416,470 415,469" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="470.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="472.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,488 L 415,488 L 415,481 L 421,481 C 422,481 425,482 424,485 C 424,487 422,488 421,488 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="482.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="487.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,467 L 405,490 L 430,490 L 430,467 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="494.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="469.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="479.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,511 L 416,511 C 417,509 417,505 416,503 L 418,503 C 421,503 423,505 425,507 C 423,510 421,511 418,511 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,511 C 416,510 416,505 415,503" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="507.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,523 L 415,523 L 415,516 L 421,516 C 422,516 425,517 424,520 C 424,522 422,523 421,523 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="517.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="522.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,502 L 405,525 L 430,525 L 430,502 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="529.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="514.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 390,465 L 390,533 L 480,533 L 480,465 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="435.0" y="541.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="390.0" cy="510.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="470.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="490.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="480.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="500.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 717,507 L 710,507 C 712,503 712,496 710,492 L 715,492 C 722,492 727,495 730,500 C 727,505 722,507 717,507 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="709.0" cy="494.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="709.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="729.0" cy="499.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,476 L 676,476 C 677,474 677,470 676,469 L 678,469 C 681,469 683,470 685,472 C 683,475 681,476 678,476 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,476 C 676,475 676,470 675,469" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="470.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="472.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,488 L 675,488 L 675,481 L 681,481 C 682,481 685,482 684,485 C 684,487 682,488 681,488 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="482.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="487.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,467 L 665,490 L 690,490 L 690,467 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="494.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="469.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="479.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,511 L 676,511 C 677,509 677,505 676,503 L 678,503 C 681,503 683,505 685,507 C 683,510 681,511 678,511 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,511 C 676,510 676,505 675,503" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="507.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,523 L 675,523 L 675,516 L 681,516 C 682,516 685,517 684,520 C 684,522 682,523 681,523 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="517.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="522.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,502 L 665,525 L 690,525 L 690,502 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="529.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="514.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 650,465 L 650,533 L 740,533 L 740,465 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="695.0" y="541.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="650.0" cy="510.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="470.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="490.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="480.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="500.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 977,507 L 970,507 C 972,503 972,496 970,492 L 975,492 C 982,492 987,495 990,500 C 987,505 982,507 977,507 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="969.0" cy="494.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="969.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="989.0" cy="499.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,476 L 936,476 C 937,474 937,470 936,469 L 938,469 C 941,469 943,470 945,472 C 943,475 941,476 938,476 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,476 C 936,475 936,470 935,469" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="470.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="472.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,488 L 935,488 L 935,481 L 941,481 C 942,481 945,482 944,485 C 944,487 942,488 941,488 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="482.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="487.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,467 L 925,490 L 950,490 L 950,467 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="494.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="469.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="479.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,511 L 936,511 C 937,509 937,505 936,503 L 938,503 C 941,503 943,505 945,507 C 943,510 941,511 938,511 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,511 C 936,510 936,505 935,503" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="507.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,523 L 935,523 L 935,516 L 941,516 C 942,516 945,517 944,520 C 944,522 942,523 941,523 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="517.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="522.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,502 L 925,525 L 950,525 L 950,502 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="529.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="514.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 910,465 L 910,533 L 1000,533 L 1000,465 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="955.0" y="541.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="910.0" cy="510.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="470.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="490.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="480.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="500.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1237,507 L 1230,507 C 1232,503 1232,496 1230,492 L 1235,492 C 1242,492 1247,495 1250,500 C 1247,505 1242,507 1237,507 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1229.0" cy="494.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1229.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1249.0" cy="499.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,476 L 1196,476 C 1197,474 1197,470 1196,469 L 1198,469 C 1201,469 1203,470 1205,472 C 1203,475 1201,476 1198,476 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,476 C 1196,475 1196,470 1195,469" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="470.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="472.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,488 L 1195,488 L 1195,481 L 1201,481 C 1202,481 1205,482 1204,485 C 1204,487 1202,488 1201,488 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="482.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="487.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,467 L 1185,490 L 1210,490 L 1210,467 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="494.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="469.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="479.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="474.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="484.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,511 L 1196,511 C 1197,509 1197,505 1196,503 L 1198,503 C 1201,503 1203,505 1205,507 C 1203,510 1201,511 1198,511 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,511 C 1196,510 1196,505 1195,503" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="507.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,523 L 1195,523 L 1195,516 L 1201,516 C 1202,516 1205,517 1204,520 C 1204,522 1202,523 1201,523 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="517.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="522.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,502 L 1185,525 L 1210,525 L 1210,502 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="529.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="504.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="514.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="509.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="519.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1170,465 L 1170,533 L 1260,533 L 1260,465 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1215.0" y="541.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="1170.0" cy="510.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="470.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="490.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="480.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="500.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 457,607 L 450,607 C 452,603 452,596 450,592 L 455,592 C 462,592 467,595 470,600 C 467,605 462,607 457,607 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="449.0" cy="594.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="449.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="469.0" cy="599.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,576 L 416,576 C 417,574 417,570 416,569 L 418,569 C 421,569 423,570 425,572 C 423,575 421,576 418,576 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,576 C 416,575 416,570 415,569" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="570.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="572.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,588 L 415,588 L 415,581 L 421,581 C 422,581 425,582 424,585 C 424,587 422,588 421,588 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="582.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="587.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,567 L 405,590 L 430,590 L 430,567 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="594.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="569.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="579.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 418,611 L 416,611 C 417,609 417,605 416,603 L 418,603 C 421,603 423,605 425,607 C 423,610 421,611 418,611 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 415,611 C 416,610 416,605 415,603" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="607.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 421,623 L 415,623 L 415,616 L 421,616 C 422,616 425,617 424,620 C 424,622 422,623 421,623 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="414.0" cy="617.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="414.0" cy="622.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="424.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 405,602 L 405,625 L 430,625 L 430,602 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="417.0" y="629.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="404.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="404.0" cy="614.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="429.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 390,565 L 390,633 L 480,633 L 480,565 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="435.0" y="641.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="390.0" cy="610.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="570.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="390.0" cy="590.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="580.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="480.0" cy="600.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 717,607 L 710,607 C 712,603 712,596 710,592 L 715,592 C 722,592 727,595 730,600 C 727,605 722,607 717,607 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="709.0" cy="594.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="709.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="729.0" cy="599.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,576 L 676,576 C 677,574 677,570 676,569 L 678,569 C 681,569 683,570 685,572 C 683,575 681,576 678,576 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,576 C 676,575 676,570 675,569" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="570.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="572.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,588 L 675,588 L 675,581 L 681,581 C 682,581 685,582 684,585 C 684,587 682,588 681,588 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="582.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="587.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,567 L 665,590 L 690,590 L 690,567 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="594.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="569.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="579.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 678,611 L 676,611 C 677,609 677,605 676,603 L 678,603 C 681,603 683,605 685,607 C 683,610 681,611 678,611 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 675,611 C 676,610 676,605 675,603" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="607.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 681,623 L 675,623 L 675,616 L 681,616 C 682,616 685,617 684,620 C 684,622 682,623 681,623 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="674.0" cy="617.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="674.0" cy="622.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="684.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 665,602 L 665,625 L 690,625 L 690,602 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="677.0" y="629.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="664.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="664.0" cy="614.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="689.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 650,565 L 650,633 L 740,633 L 740,565 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="695.0" y="641.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="650.0" cy="610.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="570.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="650.0" cy="590.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="580.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="740.0" cy="600.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 977,607 L 970,607 C 972,603 972,596 970,592 L 975,592 C 982,592 987,595 990,600 C 987,605 982,607 977,607 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="969.0" cy="594.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="969.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="989.0" cy="599.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,576 L 936,576 C 937,574 937,570 936,569 L 938,569 C 941,569 943,570 945,572 C 943,575 941,576 938,576 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,576 C 936,575 936,570 935,569" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="570.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="572.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,588 L 935,588 L 935,581 L 941,581 C 942,581 945,582 944,585 C 944,587 942,588 941,588 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="582.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="587.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,567 L 925,590 L 950,590 L 950,567 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="594.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="569.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="579.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 938,611 L 936,611 C 937,609 937,605 936,603 L 938,603 C 941,603 943,605 945,607 C 943,610 941,611 938,611 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 935,611 C 936,610 936,605 935,603" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="607.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 941,623 L 935,623 L 935,616 L 941,616 C 942,616 945,617 944,620 C 944,622 942,623 941,623 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="934.0" cy="617.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="934.0" cy="622.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="944.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 925,602 L 925,625 L 950,625 L 950,602 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="937.0" y="629.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="924.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="924.0" cy="614.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="949.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 910,565 L 910,633 L 1000,633 L 1000,565 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="955.0" y="641.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="910.0" cy="610.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="570.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="910.0" cy="590.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="580.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1000.0" cy="600.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1237,607 L 1230,607 C 1232,603 1232,596 1230,592 L 1235,592 C 1242,592 1247,595 1250,600 C 1247,605 1242,607 1237,607 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1229.0" cy="594.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1229.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1249.0" cy="599.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,576 L 1196,576 C 1197,574 1197,570 1196,569 L 1198,569 C 1201,569 1203,570 1205,572 C 1203,575 1201,576 1198,576 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,576 C 1196,575 1196,570 1195,569" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="570.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="572.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,588 L 1195,588 L 1195,581 L 1201,581 C 1202,581 1205,582 1204,585 C 1204,587 1202,588 1201,588 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="582.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="587.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,567 L 1185,590 L 1210,590 L 1210,567 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="594.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="569.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="579.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="574.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="584.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1198,611 L 1196,611 C 1197,609 1197,605 1196,603 L 1198,603 C 1201,603 1203,605 1205,607 C 1203,610 1201,611 1198,611 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<path d="M 1195,611 C 1196,610 1196,605 1195,603" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="607.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1201,623 L 1195,623 L 1195,616 L 1201,616 C 1202,616 1205,617 1204,620 C 1204,622 1202,623 1201,623 Z" stroke="#000000" stroke-width="1.4" fill="none"/>
+<circle cx="1194.0" cy="617.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1194.0" cy="622.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1204.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1185,602 L 1185,625 L 1210,625 L 1210,602 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1197.0" y="629.0" fill="#000000" style="font-size:4px">Half_adder_1bit</text>
+<circle cx="1184.0" cy="604.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1184.0" cy="614.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="609.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1209.0" cy="619.0" r="0.5" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 1170,565 L 1170,633 L 1260,633 L 1260,565 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="1215.0" y="641.75" fill="#000000" style="font-size:9px">Full_adder_1bit</text>
+<circle cx="1170.0" cy="610.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="570.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1170.0" cy="590.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="580.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<circle cx="1260.0" cy="600.0" r="1.0" stroke="#000000" stroke-width="1.4" fill="none" />
+<path d="M 300,134 L 300,676 L 1343,676 L 1343,134 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="0.7" fill="none"/>
+<text text-anchor="middle" x="821.0" y="694.5" fill="#000000" style="font-size:18px">Additition_16bit</text>
+<circle cx="300.0" cy="280.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+<circle cx="300.0" cy="180.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+<circle cx="300.0" cy="240.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+<circle cx="1340.0" cy="580.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+<circle cx="1340.0" cy="600.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+</g>
+<g>
+<text text-anchor="end" x="277.0" y="289.0" fill="#000000" style="font-size:24px">0</text>
+<circle cx="280.0" cy="280.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+</g>
+<g>
+<text text-anchor="end" x="277.0" y="249.0" fill="#000000" style="font-size:24px">1</text>
+<circle cx="280.0" cy="240.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+</g>
+<g>
+<circle cx="256.0" cy="180.0" r="4.0" stroke="#000000" stroke-width="2.8" fill="none" />
+<text text-anchor="end" x="246.0" y="189.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">IN</tspan></text>
+<circle cx="260.0" cy="180.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+</g>
+<g>
+<circle cx="1384.0" cy="580.0" r="4.0" stroke="#000000" stroke-width="2.8" fill="none" />
+<text text-anchor="start" x="1394.0" y="589.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">OUT</tspan></text>
+<circle cx="1380.0" cy="580.0" r="2.0" stroke="#000000" stroke-width="2.8" fill="#000000" />
+</g>
+</g>
+</svg>
