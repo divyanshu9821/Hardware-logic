@@ -5,7 +5,7 @@ CHIP Memory {
     PARTS:
 
     DMux(in=load , sel=address[14] , a=ramLoad , b=screenKeyLoad );
-    DMux(in=screenKeyLoad , sel=address[13] , a=screenLoad , b=keyLoad );
+    DMux(in=screenKeyLoad , sel=address[13] , a=screenLoad );
     
     RAM16K(in=in , load=ramLoad , address=address[0..13] , out=ramOut );
     Screen(in=in , load=screenLoad , address=address[0..12] , out=screenOut );
@@ -14,3 +14,4 @@ CHIP Memory {
     Mux16(a= screenOut, b=keyOut , sel=address[13] , out=preOut );
     Mux16(a= ramOut, b= preOut, sel=address[14] , out=out );
 }
+
