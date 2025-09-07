@@ -43,8 +43,8 @@ CHIP CPU {
     Not(in=zr , out=notZr );
     And(a=notNg , b=notZr , out=pos );
     And(a=instruction[0] , b=pos , out=jgt );
-    Or(a=jlt , b=jeq , out=jltAndjeq );
-    Or(a=jltAndjeq, b=jgt , out=jumpEnabled );
+    Or(a=jlt , b=jeq , out=jltOrjeq );
+    Or(a=jltOrjeq, b=jgt , out=jumpEnabled );
 
     And(a=instruction[15] , b=jumpEnabled , out=loadPc );
     Not(in=loadPc, out=inc);
